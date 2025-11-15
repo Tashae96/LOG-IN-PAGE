@@ -1,7 +1,3 @@
-<!-- Cyber Banner -->
-<div align="center">
-  <img src=""C:\Users\USER\OneDrive\Pictures\34681498-laptop-live-wallpaper-animated.jpg"" alt="Cybersecurity Banner"/>
-</div>
 
 <!-- Animated Header -->
 <div align="center">
