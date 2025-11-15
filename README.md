@@ -1,6 +1,6 @@
 <!-- Cyber Banner -->
 <div align="center">
-  <img src="https://www.backtobusinessit.com/wp-content/uploads/2023/11/Top-10-Cybersecurity-Trends-for-2024.png" alt="Cybersecurity Banner"/>
+  <img src="[https://i.imgur.com/NpFqD2b.png" width="100%](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.backtobusinessit.com%2Fcybersecurity-trends-for-2024%2F&psig=AOvVaw282cvuglK_xzXRwvFAaKS9&ust=1763323481936000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCODntof69JADFQAAAAAdAAAAABAL)" alt="Cybersecurity Banner"/>
 </div>
 
 <!-- Animated Header -->
@@ -19,7 +19,7 @@ Building secure, intelligent, and user-focused applications. Always learning. Al
 ---
 
 ## 🌟 About Me
-- 🔐 Passionate about **cybersecurity & digital safety**
+- 🔐 Passionate about **cybersecurity & digital safety**  
 - 🛠️ I create apps that solve real-world problems  
 - 🎨 I design clean, simple, functional web interfaces  
 - 🚀 Currently improving my skills in **Python**, **JavaScript**, and **security fundamentals**
@@ -28,22 +28,22 @@ Building secure, intelligent, and user-focused applications. Always learning. Al
 
 ## 🛠️ Skills & Tools
 
-### **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-181717?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+### **Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-181717?style=for-the-badge&logo=javascript)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 
-### **Domains**
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox)
-![Web Development](https://img.shields.io/badge/Web%20Dev-0A0A0A?style=for-the-badge&logo=googlechrome)
-![AI + Automation](https://img.shields.io/badge/AI%20%2F%20Automation-333333?style=for-the-badge&logo=python)
+### **Domains**  
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox)  
+![Web Development](https://img.shields.io/badge/Web%20Dev-0A0A0A?style=for-the-badge&logo=googlechrome)  
+![AI + Automation](https://img.shields.io/badge/AI%20%2F%20Automation-333333?style=for-the-badge&logo=python)  
 ![EdTech](https://img.shields.io/badge/EdTech-000000?style=for-the-badge&logo=googleclassroom)
 
-### **Tools**
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+### **Tools**  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
 ![NodeJS](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js)
 
 ---
@@ -57,19 +57,16 @@ Building secure, intelligent, and user-focused applications. Always learning. Al
 
 ---
 
-# 🚀 **Featured Projects**
+## 🚀 Featured Projects
 
-### 🔍 **Scam Detector App (AI)**
-AI-powered tool that analyzes text to identify scam signals and fraud patterns.
+- 🔒 **[WhatsApp Scam-Detection Bot](https://github.com/Tashae96/whatsapp-scam-bot)**  
+  A chatbot built using **Twilio** and **WhatsApp** which flags potentially malicious or scammy messages and helps users stay safe.
 
-### 💬 **WhatsApp Scam-Detection Bot**
-A chatbot using **Twilio + WhatsApp** to flag suspicious messages and protect users.
+- 👾 **[Special Tribble](https://github.com/Tashae96/special-tribble)**  
+  *(Add your description here – e.g. what this project does, why it's interesting.)*
 
-### 👩‍💼 **Gender Pay Gap Dash App**
-An interactive data visualization dashboard that highlights pay inequality trends.
-
-### 🧠 **Communication Bias Detector**
-A machine-learning tool that identifies biased or unfair wording in communication.
+- 🎨 **[Studio](https://github.com/Tashae96/studio)**  
+  *(Add a short description of what “Studio” is – e.g. a web‑app, design tool, portfolio, etc.)*
 
 ---
 
@@ -86,16 +83,16 @@ A machine-learning tool that identifies biased or unfair wording in communicatio
 ---
 
 ## 🔭 What I’m Working On
-Creating a **WhatsApp chatbot** that detects scams in real time.
+Building a **WhatsApp chatbot** that detects scam messages in real-time.
 
 ## 🌱 What I’m Learning
-Growing my skills in **Python**, web development, and cybersecurity.
+Advancing my **Python** and cybersecurity knowledge.
 
 ## 🤔 Seeking Help With
-Integrating **Twilio** into scalable automation workflows.
+Integrating **Twilio** effectively for WhatsApp and broader automation workflows.
 
 ## 😄 Pronouns
 She / Her / Hers
 
 ## ⚡ Fun Fact
-I love exploring new cybersecurity tools and breaking things (ethically 😄).
+I love exploring new cybersecurity tools and experimenting with code — always ethically.  
