@@ -1,6 +1,6 @@
 <!-- Cyber Banner -->
 <div align="center">
-  <img src="[https://i.imgur.com/NpFqD2b.png" width="100%](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.backtobusinessit.com%2Fcybersecurity-trends-for-2024%2F&psig=AOvVaw282cvuglK_xzXRwvFAaKS9&ust=1763323481936000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCODntof69JADFQAAAAAdAAAAABAL)" alt="Cybersecurity Banner"/>
+  <img src="https://i.imgur.com/NpFqD2b.png" width="100%](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.backtobusinessit.com%2Fcybersecurity-trends-for-2024%2F&psig=AOvVaw282cvuglK_xzXRwvFAaKS9&ust=1763323481936000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCODntof69JADFQAAAAAdAAAAABAL)" alt="Cybersecurity Banner"/>
 </div>
 
 <!-- Animated Header -->
@@ -62,11 +62,12 @@ Building secure, intelligent, and user-focused applications. Always learning. Al
 - 🔒 **[WhatsApp Scam-Detection Bot](https://github.com/Tashae96/whatsapp-scam-bot)**  
   A chatbot built using **Twilio** and **WhatsApp** which flags potentially malicious or scammy messages and helps users stay safe.
 
-- 👾 **[Special Tribble](https://github.com/Tashae96/special-tribble)**  
-  *(Add your description here – e.g. what this project does, why it's interesting.)*
+- 👾 **[Special Tribble](https://github.com/Tashae96/special-tribble)**
+   An interactive dashboard highlighting gender pay disparities and a communication tool that improves collaboration and reduces bias in messaging.
+  
 
-- 🎨 **[Studio](https://github.com/Tashae96/studio)**  
-  *(Add a short description of what “Studio” is – e.g. a web‑app, design tool, portfolio, etc.)*
+- 🎨 **[Budget App](https://github.com/Tashae96/studio)**  
+  A personal budgeting app built with Firebase that helps users track expenses, manage income, and visualize spending habits in real-time.
 
 ---
 
