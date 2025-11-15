@@ -1,22 +1,41 @@
-### Hi there 👋
+
+👋 Hi, I’m Natasha
+
+🛡️ Cybersecurity Enthusiast • 📱 App Creator • 🌐 Web Developer
+
+I’m passionate about protecting systems, building useful apps, and creating clean, simple websites. Always learning, always building.
+
+🌟 About Me
+	•	🔐 Deep interest in cybersecurity
+	•	📲 I enjoy creating apps that solve real problems
+	•	🌍 I build simple and user-friendly web pages
+	•	🚀 Currently improving my skills in Python, JavaScript, and security fundamentals
+
+  🛠️ Skills & Tools
+
+Languages:
+Python • JavaScript • HTML • CSS
+
+Domains I Love:
+Cybersecurity • Web Development • Automation • Ed-Tech
+
+Tools:
+GitHub • VS Code • Firebase • Node.js
+📫 Connect
+	•	GitHub: 
+	•	Email : natashakaira@gmail.com
+  • X     :   @foxalpha96
 
 
-☎️Contact me:natashakalira@gmail.com
-              on X @foxalpha96
 
 
-
-<!--
-**Tashae96/Tashae96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on whatsapp chatbot the detect potential scam.
+- 🌱 I’m currently learning python 
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+
+
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: She /Her/ Hers 
+ ⚡ Fun fact:
+  🚀 I’m always experimenting with new tech, especially anything related to cybersecurity.
 -->
