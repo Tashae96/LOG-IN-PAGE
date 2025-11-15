@@ -1,23 +1,28 @@
-<!-- Banner -->
+<!-- Cyber Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Natasha+%F0%9F%91%8B;Cybersecurity+Enthusiast+%F0%9F%9A%A1;App+Creator+%F0%9F%93%B1;Web+Developer+%F0%9F%8C%90;Always+Learning+%E2%9C%A8" />
+  <img src="https://i.imgur.com/NpFqD2b.png" width="100%" alt="Cybersecurity Banner"/>
+</div>
+
+<!-- Animated Header -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00C2FF&center=true&vCenter=true&width=650&lines=Hi+I'm+Natasha+%F0%9F%91%8B;Cybersecurity+Enthusiast+%F0%9F%9A%A1;App+Creator+%F0%9F%93%B1;Web+Developer+%F0%9F%8C%90;Security+Meets+Code+%E2%9C%A8" />
 </div>
 
 ---
 
-<h3 align="center">🛡️ Cybersecurity Enthusiast • 📱 App Creator • 🌐 Web Developer</h3>
+<h3 align="center">🛡️ Cybersecurity • 📱 Apps • 🌐 Web Development</h3>
 
 <p align="center">
-Passionate about cybersecurity, automation, and building clean, user-friendly applications.
+Building secure, intelligent, and user-focused applications. Always learning. Always building.
 </p>
 
 ---
 
 ## 🌟 About Me
-- 🔐 Deep interest in **cybersecurity**
-- 📲 Building apps that solve real-world problems  
-- 🌍 Creating clean and functional web pages  
-- 🚀 Improving skills in **Python**, **JavaScript**, and **security fundamentals**
+- 🔐 Passionate about **cybersecurity & digital safety**
+- 🛠️ I create apps that solve real-world problems  
+- 🎨 I design clean, simple, functional web interfaces  
+- 🚀 Currently improving my skills in **Python**, **JavaScript**, and **security fundamentals**
 
 ---
 
@@ -26,20 +31,20 @@ Passionate about cybersecurity, automation, and building clean, user-friendly ap
 ### **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-181717?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 
 ### **Domains**
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-black?style=for-the-badge&logo=hackthebox)
-![Web Development](https://img.shields.io/badge/Web%20Development-0A0A0A?style=for-the-badge&logo=googlechrome)
-![Automation](https://img.shields.io/badge/Automation-333?style=for-the-badge&logo=python)
-![EdTech](https://img.shields.io/badge/Ed--Tech-000?style=for-the-badge&logo=googleclassroom)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox)
+![Web Development](https://img.shields.io/badge/Web%20Dev-0A0A0A?style=for-the-badge&logo=googlechrome)
+![AI + Automation](https://img.shields.io/badge/AI%20%2F%20Automation-333333?style=for-the-badge&logo=python)
+![EdTech](https://img.shields.io/badge/EdTech-000000?style=for-the-badge&logo=googleclassroom)
 
 ### **Tools**
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js)
 
 ---
 
@@ -47,18 +52,24 @@ Passionate about cybersecurity, automation, and building clean, user-friendly ap
 <p align="left">
 <a href="https://github.com/Tashae96"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
 <a href="mailto:natashakaira@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://x.com/foxalpha96"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://x.com/foxalpha96"><img src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 **Featured Projects**
 
-### 🔍 **Scam Detector App**
-AI-powered tool that analyzes messages and detects potential scam patterns.
+### 🔍 **Scam Detector App (AI)**
+AI-powered tool that analyzes text to identify scam signals and fraud patterns.
 
 ### 💬 **WhatsApp Scam-Detection Bot**
-Chatbot using **Twilio + WhatsApp** to flag suspicious messages in real time.
+A chatbot using **Twilio + WhatsApp** to flag suspicious messages and protect users.
+
+### 👩‍💼 **Gender Pay Gap Dash App**
+An interactive data visualization dashboard that highlights pay inequality trends.
+
+### 🧠 **Communication Bias Detector**
+A machine-learning tool that identifies biased or unfair wording in communication.
 
 ---
 
@@ -75,16 +86,16 @@ Chatbot using **Twilio + WhatsApp** to flag suspicious messages in real time.
 ---
 
 ## 🔭 What I’m Working On
-Building a **WhatsApp chatbot** that detects scam signals.
+Creating a **WhatsApp chatbot** that detects scams in real time.
 
 ## 🌱 What I’m Learning
-Advancing my **Python** and cybersecurity knowledge.
+Growing my skills in **Python**, web development, and cybersecurity.
 
 ## 🤔 Seeking Help With
-Using **Twilio** for WhatsApp automation.
+Integrating **Twilio** into scalable automation workflows.
 
 ## 😄 Pronouns
 She / Her / Hers
 
 ## ⚡ Fun Fact
-🚀 I love experimenting with new tech — especially in cybersecurity!
+I love exploring new cybersecurity tools and breaking things (ethically 😄).
