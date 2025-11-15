@@ -1,6 +1,6 @@
 <!-- Cyber Banner -->
 <div align="center">
-  <img src="https://i.imgur.com/NpFqD2b.png" width="100%" alt="Cybersecurity Banner"/>
+  <img src="[https://i.imgur.com/NpFqD2b.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.brandcrowd.com%2Flinkedin-banners%2Ftag%2Fcyber%3Fsrsltid%3DAfmBOopXohv1Q-dYURWOdE3lRSn16eU8AlDwghV8hYhwjzvzYQ3RTxM4&psig=AOvVaw282cvuglK_xzXRwvFAaKS9&ust=1763323481936000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCODntof69JADFQAAAAAdAAAAABAE)" width="100%" alt="Cybersecurity Banner"/>
 </div>
 
 <!-- Animated Header -->
