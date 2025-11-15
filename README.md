@@ -1,6 +1,6 @@
 <!-- Cyber Banner -->
 <div align="center">
-  <img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.backtobusinessit.com%2Fcybersecurity-trends-for-2024%2F&psig=AOvVaw282cvuglK_xzXRwvFAaKS9&ust=1763323481936000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCODntof69JADFQAAAAAdAAAAABAL](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fwhy-cybersecurity-your-organization-davonda-st-clair-pmp-cism-crisc&psig=AOvVaw282cvuglK_xzXRwvFAaKS9&ust=1763323481936000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCODntof69JADFQAAAAAdAAAAABAe)" alt="Cybersecurity Banner"/>
+  <img src=""C:\Users\USER\OneDrive\Pictures\34681498-laptop-live-wallpaper-animated.jpg"" alt="Cybersecurity Banner"/>
 </div>
 
 <!-- Animated Header -->
