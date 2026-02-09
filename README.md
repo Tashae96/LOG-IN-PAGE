@@ -52,6 +52,3 @@ These features can be added later:
 - 🌐 Backend authentication (Node, PHP, Firebase, etc.)  
 
 
-
-```markdown
-![Login Page Preview](images/login-page-preview.png)
